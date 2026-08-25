@@ -1,4 +1,4 @@
-# 🎬 Streaming App Premium
+# 🎬jackstremen
 
 Una aplicación de streaming completa con TV en vivo, películas, series, sistema de pagos integrado, recomendaciones por IA, y gestión avanzada de moderación.
 
